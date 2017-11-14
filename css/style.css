@@ -1,0 +1,17 @@
+body{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+#map{
+    width: 100%;  
+    height: 95vh;
+    background-color: darkkhaki;
+    float: right;
+}
+
+.pageImage{
+  width=10px;  
+}
+

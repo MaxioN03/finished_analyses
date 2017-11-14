@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<REGIONS>
+    <REGION>
+    <NAME>БРЕСТСКАЯ</NAME>
+    <REGION-CENTER coord="52.097127,23.715179">Брест</REGION-CENTER>
+    <REGION-CENTER-DOC-HREF name="Январь 2006 - Январь 2010">http://nca.by/docs/pdf/Brest.pdf</REGION-CENTER-DOC-HREF>    
+        <DISTRCITS>
+            <DISTRICT name='Пинский'>
+                <CITY name='Пинск' coord='52.123975,26.068755'>
+                    <DOC name="2003-2010">http://nca.by/docs/pdf/Pinsk.pdf</DOC>
+                </CITY>
+                <CITY name='Логишин' coord='52.335934,25.993628'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Барановичский'>
+                <CITY name='Барановичи' coord='53.127317,26.006575'>  
+                    <DOC name="Январь 2011 - Май 2017">http://nca.by/docs/pdf/Baranovichi.pdf</DOC>
+                </CITY>
+                <CITY name='Городище' coord='53.328608,26.008525'>
+                    <DOC name="Январь 2004 - Февраль 2012">http://nca.by/docs/pdf/Gorodische.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Столинский'>
+                <CITY name='Речица' coord='51.858375,26.787041'>
+                    <DOC name="2003-2010">http://nca.by/docs/pdf/Rechica.pdf</DOC>
+                </CITY>
+
+                <CITY name='Давид-Городок' coord='52.056392,27.215012'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Столин' coord='51.89174,26.838707'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/stolin_2015.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Пружанский'>
+                <CITY name='Шерешево' coord='52.559093,24.21063'>
+                    <DOC name="2010-2013">http://nca.by/_modules/_cfiles/files/shereshevo.pdf</DOC>
+                </CITY>
+
+                <CITY name='Ружаны' coord='52.869379,24.890391'>
+                    <DOC name="2010-2013">http://nca.by/_modules/_cfiles/files/rujany.pdf</DOC>
+                </CITY>
+
+                <CITY name='Пружаны' coord='52.558112,24.457187'>
+                    <DOC name="2010-2013">http://nca.by/_modules/_cfiles/files/prujany_876.pdf</DOC>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/pruzhany_2015.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Малоритский'>
+                <CITY name='Малорита' coord='51.793832,24.07644'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/Malorita_AFRN.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Ляховичский'>
+                <CITY name='Ляховичи' coord='53.03672,26.257119'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/Ljahovichi_AFRN.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Лунинецкий'>
+                <CITY name='Микашевичи' coord='52.225408,27.473399'>
+                <DOC name="2004-2012">http://nca.by/docs/pdf/Mikashevichi.pdf</DOC>
+                </CITY>
+
+                <CITY name='Лунинец' coord='52.249754,26.805501'>
+                    <DOC name="Январь 2003 - Апрель 2012">http://nca.by/_modules/_cfiles/files/luninec_2013.pdf</DOC>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/luninec_2015.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Кобринский'>
+                <CITY name='Кобрин' coord='52.216062,24.357277'>
+                    <DOC name="2010-2013">http://nca.by/_modules/_cfiles/files/kobrin.pdf</DOC>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/kobrin_2015.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Каменецкий'>
+                <CITY name='Высокое' coord='52.368781,23.372049'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Каменец' coord='52.40063,23.816339'>
+                    <DOC name="2003-2009">http://nca.by/docs/pdf/Kamenets.pdf</DOC>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/kamenec_2015.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Ивацевичский'>
+                <CITY name='Телеханы' coord='52.514974,25.842061'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Telehany.pdf</DOC>
+                </CITY>
+
+                <CITY name='Коссово' coord='52.755871,25.152931'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Ивацевичи' coord='52.709825,25.332418'>
+                    <DOC name="2009-2013">http://nca.by/_modules/_cfiles/files/ivacevichi.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Ивановский'>
+                <CITY name='Иваново' coord='52.142347,25.533865'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/ivanovo_2015.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Жабинковский'>
+                <CITY name='Жабинка' coord='52.19569,24.009859'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/jabinka_2015.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Дрогичинский'>
+                <CITY name='Антополь' coord='52.203919,24.788927'>
+                    <DOC name=""></DOC>
+                </CITY>
+                <CITY name='Дрогичин' coord='52.190677,25.15357'>
+                    <DOC name="Январь 2003 - Декабрь 2008">http://nca.by/docs/pdf/Drogichin.pdf</DOC>
+                    <DOC name="Январь 2010 - Март 2015">http://nca.by/_modules/_cfiles/files/drogichin_2015.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Ганцевичский'>
+                <CITY name='Ганцевичи' coord='52.756172,26.430679'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/Gantsevichi.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Брестский'>
+                <CITY name='Домачево' coord='51.750863,23.603399'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Берёзовский'>
+                <CITY name='Белоозёрск' coord='52.465215,25.182427'>
+                    <DOC name="Январь 2009 - Июль 2013">http://nca.by/_modules/_cfiles/files/Beloozersk_2013.pdf</DOC>
+                </CITY>
+                <CITY name='Берёза' coord='52.533946,24.965311'>
+                    <DOC name="Январь 2009 - Июль 2013">http://nca.by/_modules/_cfiles/files/Bereza_2013.pdf</DOC>
+                    <DOC name="Январь 2010 - Апрель 2015">http://nca.by/_modules/_cfiles/files/bereza_2015.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+
+        </DISTRCITS>
+    </REGION>  
+    
+    <REGION>
+    <NAME>ВИТЕБСКАЯ</NAME> 
+    <REGION-CENTER coord="55.191269,30.199667">Витебск</REGION-CENTER>
+    <REGION-CENTER-DOC-HREF name="2003-2010">http://nca.by/docs/pdf/Vitebsk.pdf</REGION-CENTER-DOC-HREF>
+        <DISTRCITS>
+            <DISTRICT name='Полоцкий'>
+                <CITY name='Боровуха' coord='55.58664,28.607211'>
+                    <DOC name=""></DOC>
+                </CITY>
+                <CITY name='Новополоцк' coord='55.523216,28.596852'>
+                    <DOC name="Январь 2010 - Июль 2017">http://nca.by/docs/pdf/Novopolotsk.pdf</DOC>
+                </CITY>
+                <CITY name='Ветрино' coord='55.409173,28.467716'>
+                    <DOC name=""></DOC>
+                </CITY>
+                <CITY name='Полоцк' coord='55.499258,28.78448'>
+                    <DOC name="Январь 2011 - Декабрь 2016">http://nca.by/_modules/_cfiles/files/AFRN_Polock.pdf</DOC>ъ
+                     <DOC name="2006-2010">http://nca.by/docs/pdf/Polock.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Витебский'>
+                <CITY name='Руба' coord='55.293405,30.28898'>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/ruba_2014.pdf</DOC>
+                </CITY>
+                <CITY name='Яновичи' coord='55.29439,30.699861'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Yanovichi.pdf</DOC>
+                </CITY>
+                <CITY name='Сураж' coord='55.408008,30.719886'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Surazh.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Шумилинский'>
+                <CITY name='Оболь' coord='55.352651,29.305859'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Шумилино' coord='55.295986,29.610222'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Шарковщинский'>
+                <CITY name='Шарковщина' coord='55.365609,27.467493'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Sharkovschina.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Чашникский'>
+                <CITY name='Новолукомль' coord='54.669026,29.152217'>
+                    <DOC name="2003-2009">http://nca.by/docs/pdf/Novolukoml.pdf</DOC>
+                </CITY>
+
+                <CITY name='Чашники' coord='54.851145,29.172705'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Ушачский'>
+                <CITY name='Ушачи' coord='55.176237,28.618386'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Толочинский'>
+                <CITY name='Коханово' coord='54.461258,30.001165'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Толочин' coord='54.406378,29.713278'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Сенненский'>
+                <CITY name='Богушевск' coord='54.84561,30.208422'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Сенно' coord='54.81279,29.70608'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/Senno.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Россонский'>
+                <CITY name='Россоны' coord='55.903585,28.811604'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Поставский'>
+                <CITY name='Воропаево' coord='55.142091,27.203816'>
+                    <DOC name="2009-2013">http://nca.by/_modules/_cfiles/files/voropaevo.pdf</DOC>
+                </CITY>
+
+                <CITY name='Лынтупы' coord='55.049153,26.308914'>
+                    <DOC name="2009-2013">http://nca.by/_modules/_cfiles/files/lyntupy.pdf</DOC>
+                </CITY>
+
+                <CITY name='Поставы' coord='55.114771,26.84159'>
+                    <DOC name="2009-2013">http://nca.by/_modules/_cfiles/files/postavy.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+
+            <DISTRICT name='Оршанский'>
+                <CITY name='Ореховск' coord='54.683634,30.498286'>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/orehovsk.pdf</DOC>
+                </CITY>
+                <CITY name='Копысь' coord='54.32207,30.294234'>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/kopys.pdf</DOC>
+                </CITY>
+                <CITY name='Болбасово' coord='54.432191,30.292661'>
+                    <DOC name=""></DOC>
+                </CITY>
+                <CITY name='Барань' coord='54.47963,30.31901'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/Baran_AFRN.pdf</DOC>
+                </CITY>
+                <CITY name='Орша' coord='54.511707,30.409455'>
+                    <DOC name="2009-2013">http://nca.by/_modules/_cfiles/files/orsha.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Миорский'>
+                <CITY name='Дисна' coord='55.562128,28.210795'>
+                    <DOC name=""></DOC>
+                </CITY>
+                <CITY name='Миоры' coord='55.620646,27.631816'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/Miori.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Лиозненский'>
+                <CITY name='Лиозно' coord='55.021185,30.799383'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Liozno.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Лепельский'>
+                <CITY name='Лепель' coord='54.884126,28.695117'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/Lepel_AFRN.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Дубровенский'>
+                <CITY name='Дубровно' coord='54.574397,30.688576'>
+                    <DOC name="2004-2010">http://nca.by/docs/pdf/Dubrovno.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Докшицкий'>
+                <CITY name='Бегомль' coord='54.734101,28.056305'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Begoml.pdf</DOC>
+                </CITY>
+
+                <CITY name='Докшицы' coord='54.894551,27.770591'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Городокский'>
+                <CITY name='Езерище' coord='55.834147,29.991442'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Городок' coord='55.460808,29.990229'>
+                    <DOC name="2003-2007">http://nca.by/docs/pdf/Gorodok.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Глубокский'>
+                <CITY name='Подсвилье' coord='55.148147,27.963475'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Глубокое' coord='55.144818,27.686406'>
+                    <DOC name="2003-2009">http://nca.by/docs/pdf/Glubokoe.pdf</DOC>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/Glubokoe_AFRN.pdf</DOC>
+                    
+                </CITY>
+            </DISTRICT>
+
+            <DISTRICT name='Верхнедвинский'>
+                <CITY name='Освея' coord='56.011903,28.106826'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Верхнедвинск' coord='55.767885,27.939657'>
+                    <DOC name="2003-2009">http://nca.by/docs/pdf/Verhnedvinsk.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Браславский'>
+                <CITY name='Видзы' coord='55.39478,26.630394'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Vidzy.pdf</DOC>
+                </CITY>
+
+                <CITY name='Браслав' coord='55.64046,27.049765'>
+                    <DOC name="Январь 2011 - Июль 2017">http://nca.by/docs/pdf/Braslav.pdf</DOC>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/!Braslav.pdf</DOC>
+                    
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Бешенковичский'>
+                <CITY name='Бешенковичи' coord='55.043544,29.461533'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>       
+    
+        </DISTRCITS>
+    </REGION>
+    
+    <REGION>
+    <NAME>ГОМЕЛЬСКАЯ</NAME> 
+    <REGION-CENTER coord="52.426349,30.983809">Гомель</REGION-CENTER>
+    <REGION-CENTER-DOC-HREF name="2005-2009">http://nca.by/docs/pdf/Gomel'.pdf</REGION-CENTER-DOC-HREF>
+        <DISTRCITS>
+            <DISTRICT name='Берестовицкий'>
+                <CITY name='Большая Берестовица' coord='53.194057,24.01781'>
+                    <DOC name="Январь 2011 - Май 2016">http://nca.by/_modules/_cfiles/files/AFRN_Bolshaja_berestovitsa.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Гомельский'>
+                <CITY name='Костюковка' coord='52.538504,30.914477'>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/kostiukovka_2014.pdf</DOC>
+                </CITY>
+                <CITY name='Большевик' coord='52.563375,30.877408'>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/bolshevik_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Чечерский'>
+                <CITY name='Чечерск' coord='52.91497,30.919315'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Хойникский'>
+                <CITY name='Хойники' coord='51.898201,29.983305'>
+                    <DOC name="2003-2009">http://nca.by/docs/pdf/Hoyniki.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Светлогорский'>
+                <CITY name='Сосновый Бор' coord='52.519294,29.606528'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Паричи' coord='52.805755,29.413763'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Светлогорск' coord='52.625933,29.745282'>
+                    <DOC name="Январь 2010 - Февраль 2017">http://nca.by/_modules/_cfiles/files/AFRN_Svetlogorsk.pdf</DOC>
+                    <DOC name="2003-2010">http://nca.by/docs/pdf/Svetlogorsk.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/svetlogorsk_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Рогачевский'>
+                <CITY name='Рогачев' coord='53.079101,30.024898'>
+                    <DOC name="2009-2013">http://nca.by/_modules/_cfiles/files/rogachev.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/rogachev_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Речицкий'>
+                <CITY name='Заречье' coord='52.437287,30.08299'>
+                    <DOC name="2004-2010">http://nca.by/docs/pdf/Zarech'e.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/zareche_2014.pdf</DOC>
+                </CITY>
+
+                <CITY name='Василевичи' coord='52.247535,29.826089'>
+                    <DOC name="2004-2010">http://nca.by/docs/pdf/Vasilevichi.pdf</DOC>
+                </CITY>
+
+                <CITY name='Речица' coord='52.364774,30.384334'>
+                    <DOC name="Январь 2011 - Февраль 2017">http://nca.by/_modules/_cfiles/files/AFRN_Rechica.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Петриковский'>
+                <CITY name='Копаткевичи' coord='52.316167,28.811092'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Петриков' coord='52.127099,28.489889'>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/petrikov_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Октябрьский'>
+                <CITY name='Октябрьский' coord='52.645153,28.880442'>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/Oktyabrskii_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Наровлянский'>
+                <CITY name='Наровля' coord='51.795112,29.506072'>
+                    <DOC name="2003-2009">http://nca.by/docs/pdf/Narovlya.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Мозырский'>
+                <CITY name='Мозырь' coord='52.049836,29.232203'>
+                    <DOC name="Январь 2011 - Март 2017">http://nca.by/_modules/_cfiles/files/AFRN_Mozyr.pdf</DOC>
+                    <DOC name="2003-2011">http://nca.by/docs/pdf/Mozyr.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Лоевский'>
+                <CITY name='Лоев' coord='51.940631,30.791297'>
+                    <DOC name=" 2004-2011">http://nca.by/docs/pdf/Loev.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Лельчицкий'>
+                <CITY name='Лельчицы' coord='51.790389,28.322655'>
+                    <DOC name="2004-2010">http://nca.by/docs/pdf/Lelchicy.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/Lelchici_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Кормянский'>
+                <CITY name='Корма' coord='53.130482,30.803896'>
+                    <DOC name="2004-2010">http://nca.by/docs/pdf/Korma.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/korma_2014.pdf</DOC>
+                    
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Калинковичский'>
+                <CITY name='Озаричи' coord='52.463171,29.260249'>
+                    <DOC name="2004-2010">http://nca.by/docs/pdf/Ozarichi.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/ozarichi_2014.pdf</DOC>
+                </CITY>
+
+                <CITY name='Калинковичи' coord='52.124653,29.324391'>
+                    <DOC name="2003-2010">http://nca.by/docs/pdf/Kalinkovichi.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/kalinkovichi_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Жлобинский'>
+                <CITY name='Стрешин' coord='52.730052,30.104489'>
+                    <DOC name="2004-2010">http://nca.by/docs/pdf/Streshin.pdf</DOC>
+                </CITY>
+
+                <CITY name='Жлобин' coord='52.894371,30.023381'>
+                    <DOC name="2005-2010">http://nca.by/docs/pdf/Zhlobin.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/jlobin_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Житковичский'>
+                <CITY name='Туров' coord='52.065855,27.736715'>
+                    <DOC name="2004-2010">http://nca.by/docs/pdf/Turov.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/turov_2014.pdf</DOC>
+                </CITY>
+                <CITY name='Житковичи' coord='52.213543,27.853301'>
+                    <DOC name="2004-2010">http://nca.by/docs/pdf/Zhitkovichi.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/jitkovichi_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Ельский'>
+                <CITY name='Ельск' coord='51.817268,29.153045'>
+                    <DOC name="2003-2010">http://nca.by/docs/pdf/El'sk.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/elsk_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Добрушский'>
+                <CITY name='Тереховка' coord='52.213504,31.430863'>
+                    <DOC name="2004-2010">http://nca.by/docs/pdf/Terehovka.pdf</DOC>
+                </CITY>
+
+                <CITY name='Добруш' coord='52.411367,31.321802'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+
+            <DISTRICT name='Ветковский'>
+                <CITY name='Ветка' coord='52.559998,31.178982'>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/vetka_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Буда-Кошелевский'>
+                <CITY name='Уваровичи' coord='52.600815,30.728481'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Буда-Кошелево' coord='52.719616,30.567336'>
+                    <DOC name="2004-2010">http://nca.by/docs/pdf/Buda-koshilevo.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Брагинский'>
+                <CITY name='Комарин' coord='51.439169,30.566881'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Komarin.pdf</DOC>
+                </CITY>
+                <CITY name='Брагин' coord='51.790263,30.269355'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Bragin.pdf</DOC>
+                </CITY>
+            </DISTRICT>            
+        </DISTRCITS>    
+    </REGION>
+    
+    <REGION>
+    <NAME>ГРОДНЕНСКАЯ</NAME>
+    <REGION-CENTER coord="53.678133,23.833015">Гродно</REGION-CENTER>
+    <REGION-CENTER-DOC-HREF name="2003-2010">http://nca.by/docs/pdf/Grodno.pdf</REGION-CENTER-DOC-HREF>
+        <DISTRCITS>
+            <DISTRICT name='Щучинский'>
+                <CITY name='Острино' coord='53.734016,24.528645'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Желудок' coord='53.597464,24.979414'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Щучин' coord='53.606372,24.73612'>
+                    <DOC name="Январь 2011 - Июль 2016">http://nca.by/_modules/_cfiles/files/AFRN_SHuchin.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Сморгонский'>
+                <CITY name='Сморгонь' coord='54.486497,26.394062'>
+                    <DOC name="2003-2010">http://nca.by/docs/pdf/Smorgon'.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Слонимский'>
+                <CITY name='Слоним' coord='53.085618,25.335415'>
+                    <DOC name="Январь 2011 - Январь 2017">http://nca.by/_modules/_cfiles/files/AFRN_Slonim.pdf</DOC>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/slonim.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Свислочский'>
+                <CITY name='Порозово' coord='52.938026,24.372262'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Porozovo.pdf</DOC>
+                </CITY>
+                <CITY name='Свислочь' coord='53.035326,24.098822'>
+                    <DOC name="2009-2014">http://nca.by/_modules/_cfiles/files/svisloch.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Ошмянский'>
+                <CITY name='Ошмяны' coord='54.423644,25.943352'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Oshmyany.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Островецкий'>
+                <CITY name='Островец' coord='54.602134,25.963562'>
+                    <DOC name="Январь 2011 - Декабрь 2015">http://nca.by/_modules/_cfiles/files/Ostrovets_2016.pdf</DOC>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Ostrovets.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Новогрудский'>
+                <CITY name='Любча' coord='53.749281,26.06007'>
+                    <DOC name=""></DOC>
+                </CITY>
+                <CITY name='Новогрудок' coord='53.593946,25.820329'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/Novogrudok_AFRN.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Мостовский'>
+                <CITY name='Мосты' coord='53.41564,24.541814'>
+                    <DOC name="2010-2013">http://nca.by/_modules/_cfiles/files/mosty.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Лидский'>
+                <CITY name='Березовка' coord='53.722177,25.495509'>
+                    <DOC name="Январь 2011 - Апрель 2016">http://nca.by/_modules/_cfiles/files/AFRN_Berezovka.pdf</DOC>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/berezovka.pdf</DOC>
+                </CITY>
+                <CITY name='Лида' coord='53.900698,25.285015'>
+                    <DOC name="Январь 2011 - Декабрь 2015">http://nca.by/_modules/_cfiles/files/Lida_2016.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Кореличский'>
+                <CITY name='Мир' coord='53.454888,26.46652'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Mir.pdf</DOC>
+                </CITY>
+                <CITY name='Кореличи' coord='53.568503,26.139781'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Korelichi.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Ивьевский'>
+                <CITY name='Юратишки' coord='54.032799,25.928195'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Yuratishki.pdf</DOC>
+                </CITY>
+                <CITY name='Ивье' coord='53.932938,25.775917'>
+                    <DOC name="Январь 2011 - Январь 2016">http://nca.by/_modules/_cfiles/files/AFRN_Ive_2016.pdf</DOC>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Iv'e.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Зельвенский'>
+                <CITY name='Зельва' coord='53.151884,24.810175'>
+                    <DOC name="2011-2013">http://nca.by/_modules/_cfiles/files/zelva.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Дятловский'>
+                <CITY name='Новоельня' coord='53.463105,25.573072'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Козловщина' coord='53.31759,25.290277'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Дятлово' coord='53.463783,25.408079'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/Djatlovo_AFRN.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Гродненский'>
+                <CITY name='Сопоцкин' coord='53.827637,23.659654'>
+                    <DOC name=""></DOC>
+                </CITY>
+
+                <CITY name='Скидель' coord='53.58003,24.231409'>
+                    <DOC name="Январь 2011 - Август 2016">http://nca.by/_modules/_cfiles/files/AFRN_Skidel.pdf</DOC>
+                    <DOC name="2003-2009">http://nca.by/docs/pdf/Skidel.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Вороновский'>
+                <CITY name='Радунь' coord='54.047419,24.996425'>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/gp_radun.pdf</DOC>
+                </CITY>
+
+                <CITY name='Вороново' coord='54.150503,25.313462'>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/gp_voronovo.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Волковысский'>
+                <CITY name='Россь' coord='53.287212,24.413605'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Ross.pdf</DOC>
+                </CITY>
+
+                <CITY name='Красносельский' coord='53.262223,24.429286'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Krasnoselskiy.pdf</DOC>
+                </CITY>
+
+                <CITY name='Волковыск' coord='53.149526,24.440615'>
+                    <DOC name="Январь 2011 - Февраль 2016">http://nca.by/_modules/_cfiles/files/AFRN_Volkovisk.pdf</DOC>
+                    <DOC name="2003-2012">http://nca.by/docs/pdf/Volkovysk.pdf</DOC>
+                </CITY>
+            </DISTRICT>    
+        </DISTRCITS> 
+    </REGION>
+    
+    <REGION>
+    <NAME>МИНСКАЯ</NAME>
+    <REGION-CENTER coord="53.894715,27.614665">Минск</REGION-CENTER>
+    <REGION-CENTER-DOC-HREF name=""></REGION-CENTER-DOC-HREF>
+        <DISTRCITS>
+            <DISTRICT name='Смолевичский'>
+                <CITY name='Жодино' coord='54.100509,28.333817'>
+                    <DOC name="Январь 2011 - Декабрь 2016">http://nca.by/_modules/_cfiles/files/AFRN_Zhodino.pdf</DOC>
+                    <DOC name="2003-20012">http://nca.by/docs/pdf/Zhodino.pdf</DOC>
+                </CITY>
+                <CITY name='Зеленый Бор' coord='54.014212,28.482977'>
+                    <DOC name=""></DOC>
+                </CITY>
+                <CITY name='Смолевичи' coord='54.028535,28.084232'>
+                    <DOC name="2009-2013">http://nca.by/_modules/_cfiles/files/smolevichi.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Червенский'>
+                <CITY name='Смиловичи' coord='53.748089,28.021303'>
+                    <DOC name=""></DOC>
+                </CITY>
+                <CITY name='Червень' coord='53.708521,28.425488'>
+                    <DOC name="Январь 2011 - Август 2016">http://nca.by/_modules/_cfiles/files/AFRN_CHerven.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Узденский'>
+                <CITY name='Узда' coord='53.462095,27.21523'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Столбцовский'>
+                <CITY name='Столбцы' coord='53.485833,26.744727'>
+                    <DOC name="Январь 2011 - Июнь 2017">http://nca.by/docs/pdf/Stolbtsi.pdf</DOC>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Stolbtsi.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Стародорожский'>
+                <CITY name='Старые Дороги' coord='53.040846,28.264609'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/StarieDorogi.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Солигорский'>
+                <CITY name='Старобин' coord='52.733335,27.446345'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Starobin.pdf</DOC>
+                </CITY>
+                <CITY name='Красная Слобода' coord='52.851369,27.177774'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/KrasnayaSloboda.pdf</DOC>
+                </CITY>
+                <CITY name='Солигорск' coord='52.782386,27.518585'>
+                    <DOC name="Январь 2011 - Май 2017">http://nca.by/docs/pdf/Soligorsk.pdf</DOC>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/soligorsk.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+
+            <DISTRICT name='Слуцкий'>
+                <CITY name='Слуцк' coord='53.021949,27.557963'>
+                    <DOC name="Январь 2011 - Ноябрь 2016">http://nca.by/docs/pdf/Slutsk.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Пуховичский'>
+                <CITY name='Свислочь' coord='53.64252,27.926571'>
+                    <DOC name=" 2004-2011">http://nca.by/docs/pdf/Svisloch.pdf</DOC>
+                </CITY>
+                <CITY name='Руденск' coord='53.596197,27.861374'>
+                    <DOC name="2009-2014">http://nca.by/_modules/_cfiles/files/rudensk.pdf</DOC>
+                </CITY>
+                <CITY name='Правдинский' coord='53.525642,27.826119'>
+                    <DOC name="2009-2014">http://nca.by/_modules/_cfiles/files/pravdinskii.pdf</DOC>
+                </CITY>
+                <CITY name='Марьина Горка' coord='53.506213,28.143184'>
+                    <DOC name="2009-2013">http://nca.by/_modules/_cfiles/files/m.gorka.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/Mar'ina%20Gorka_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Несвижский'>
+                <CITY name='Городея' coord='53.310284,26.53222'>
+                    <DOC name="Январь 2011 - Июнь 2016">http://nca.by/_modules/_cfiles/files/AFRN_Gorodeja.pdf</DOC>
+                </CITY>
+                <CITY name='Несвиж' coord='53.220582,26.674552'>
+                    <DOC name="Январь 2011 - Июнь 2016">http://nca.by/_modules/_cfiles/files/AFRN_Nesvizh+.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Мядельский'>
+                <CITY name='Свирь' coord='54.848877,26.393423'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Svir.pdf</DOC>
+                </CITY>
+                <CITY name='Нарочь' coord='54.901585,26.696583'>
+                    <DOC name="Январь 2011 - Сентябрь 2016">http://nca.by/docs/pdf/Naroch.pdf</DOC>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Naroch.pdf</DOC>
+                </CITY>
+                <CITY name='Кривичи' coord='54.713137,27.289427'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Krivichi.pdf</DOC>
+                </CITY>
+                <CITY name='Мядель' coord='54.878575,26.939122'>
+                    <DOC name="Январь 2011 - Октябрь 2016">http://nca.by/docs/pdf/Myadel.pdf</DOC>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Myadel.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Молодечненский'>
+                <CITY name='Радошковичи' coord='54.158397,27.23563'>
+                    <DOC name="2009-2013">http://nca.by/_modules/_cfiles/files/radoshkovichi.pdf</DOC>
+                </CITY>
+                <CITY name='Молодечно' coord='54.308774,26.858542'>
+                    <DOC name="Январь 2009 - Декабрь 2016">http://nca.by/_modules/_cfiles/files/AFRN_Molodechno.pdf</DOC>
+                    <DOC name="2003-2010">http://nca.by/docs/pdf/Molodechno.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Минский'>
+                
+                <CITY name='Мачулищи' coord='53.775628,27.590557'>
+                    <DOC name=""></DOC>
+                </CITY>
+                <CITY name='Заславль' coord='54.00832,27.283089'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Любанский'>
+                <CITY name='Уречье' coord='52.946339,27.891812'>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/gp_ureche.pdf</DOC>
+                </CITY>
+                <CITY name='Любань' coord='52.799925,27.996709'>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/g.%C2%A0lyuban.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Логойский'>
+                <CITY name='Плещеницы' coord='54.422277,27.831588'>
+                    <DOC name=""></DOC>
+                </CITY>
+                <CITY name='Логойск' coord='54.201909,27.850104'>
+                    <DOC name="Январь 2011 - Июль 2016">http://nca.by/_modules/_cfiles/files/AFRN_Logojsk.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Крупский'>
+                <CITY name='Холопеничи' coord='54.51558,28.959039'>
+                    <DOC name=""></DOC>
+                </CITY>
+                <CITY name='Бобр' coord='54.34139,29.271984'>
+                    <DOC name="Январь 2011 - Май 2016">http://nca.by/_modules/_cfiles/files/AFRN_Bobr.pdf</DOC>
+                </CITY>
+                <CITY name='Крупки' coord='54.319363,29.14688'>
+                    <DOC name="Январь 2011 - Сентябрь 2016">http://nca.by/docs/pdf/Krupki.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Копыльский'>
+                <CITY name='Копыль' coord='53.151711,27.09392'>
+                    <DOC name="Январь 2011 - Январь 2016">http://nca.by/_modules/_cfiles/files/AFRN_Kopil_2016.pdf</DOC>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/kopyly.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Клецкий'>
+                <CITY name='Клецк' coord='53.06648,26.638835'>
+                    <DOC name="Январь 2011 - Ноябрь 2016">http://nca.by/docs/pdf/Kletsk.pdf</DOC>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Kletsk.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Дзержинский'>
+                <CITY name='Фаниполь' coord='53.746673,27.337886'>
+                    <DOC name="Январь 2011 - Апрель 2017">http://nca.by/docs/pdf/Fanipol'.pdf</DOC>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/fanipol.pdf</DOC>
+                </CITY>
+                <CITY name='Дзержинск' coord='53.689116,27.129605'>
+                    <DOC name="Январь 2011 - Июнь 2017">http://nca.by/docs/pdf/Dzerzhinsk.pdf</DOC>
+                    <DOC name="2003-2013">http://nca.by/docs/pdf/Dzerzhinsk.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Воложинский'>
+                <CITY name='Ивенец' coord='53.888889,26.738591'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Ivenec.pdf</DOC>
+                </CITY>
+                <CITY name='Воложин' coord='54.087908,26.526198'>
+                    <DOC name="Январь 2011 - Октябрь 2016">http://nca.by/docs/pdf/Volozhin.pdf</DOC>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Volozhin.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Вилейский'>
+                <CITY name='Вилейка' coord='54.497854,26.922524'>
+                    <DOC name="Январь 2011 - Март 2016">http://nca.by/_modules/_cfiles/files/AFRN_Vilejka.pdf</DOC>
+                    <DOC name="2009-2012">http://nca.by/docs/pdf/Vileyka.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Борисовский'>
+                <CITY name='Борисов' coord='54.222049,28.507401'>
+                    <DOC name="Январь 2011 - Март 2017">http://nca.by/_modules/_cfiles/files/AFRN_Borisov.pdf</DOC>
+                    <DOC name="2008-2012">http://nca.by/docs/pdf/Borisov.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Березинский'>
+                <CITY name='Березино' coord='53.835512,28.983114'>
+                    <DOC name="Январь 2011 - Апрель 2016">http://nca.by/_modules/_cfiles/files/AFRN_Berezino.pdf</DOC>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/g._berezino.pdf</DOC>
+                </CITY>
+            </DISTRICT>    
+        </DISTRCITS> 
+    </REGION>
+    
+    <REGION>
+    <NAME>МОГИЛЁВСКАЯ</NAME>
+    <REGION-CENTER coord="53.893915,30.336512">Могилев</REGION-CENTER>
+    <REGION-CENTER-DOC-HREF name=""></REGION-CENTER-DOC-HREF>
+        <DISTRCITS>
+            <DISTRICT name='Бобруйский'>
+                <CITY name='Бобруйск' coord='53.149708,29.218675'>
+                    <DOC name="Январь 2011 - Апрель 2017">http://nca.by/docs/pdf/Bobruysk.pdf</DOC>
+                    <DOC name="2003-2010">http://nca.by/docs/pdf/Bobruysk.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Шкловский'>
+                <CITY name='Шклов' coord='54.204578,30.29625'>
+                    <DOC name="2003-2009">http://nca.by/docs/pdf/Shklov.pdf</DOC>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/SHklov_AFRN.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Чериковский'>
+                <CITY name='Чериков' coord='53.570885,31.382062'>
+                    <DOC name="2004-2013">http://nca.by/_modules/_cfiles/files/g.%C2%A0cherikov.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Чаусский'>
+                <CITY name='Чаусы' coord='53.805062,30.959461'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Chausy.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Хотимский'>
+                <CITY name='Хотимск' coord='53.40958,32.580982'>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/hotimsk_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Славгородский'>
+                <CITY name='Славгород' coord='53.4419,30.999374'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Slavgorod.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/slavgorod_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Осиповичский'>
+                <CITY name='Татарка' coord='53.254852,28.817896'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Tatarka.pdf</DOC>
+                </CITY>
+
+                <CITY name='Елизово' coord='53.397742,29.006271'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Elizovo.pdf</DOC>
+                </CITY>
+
+                <CITY name='Осиповичи' coord='53.306914,28.635758'>
+                    <DOC name="2010-2015">http://nca.by/_modules/_cfiles/files/Osipovichi_AFRN.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Мстиславский'>
+                <CITY name='Мстиславль' coord='54.018603,31.727833'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Mstislavl.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Круглянский'>
+                <CITY name='Круглое' coord='54.248628,29.793555'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Krugloe.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Кричевский'>
+                <CITY name='Кричев' coord='53.718188,31.710048'>
+                    <DOC name="2003-2011">http://nca.by/docs/pdf/Krichev.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Краснопольский'>
+                <CITY name='Краснополье ' coord='53.338915,31.398989'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Krasnopolie.pdf</DOC>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/krasnopole_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Костюковичский'>
+                <CITY name='Костюковичи' coord='53.357737,32.046924'>
+                    <DOC name="2009-2013">http://nca.by/_modules/_cfiles/files/kostyukovichi.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Кличевский'>
+                <CITY name='Кличев' coord='53.491114,29.333431'>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/krichev_2014.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Климовичский'>
+                <CITY name='Климовичи' coord='53.607513,31.949526'>
+                    <DOC name="2010-2014">http://nca.by/_modules/_cfiles/files/klimovichi.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Кировский'>
+                <CITY name='Кировск' coord='53.275005,29.470729'>
+                    <DOC name=""></DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Дрибинский'>
+                <CITY name='Дрибин' coord='54.12027,31.101196'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Dribin.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Горецкий'>
+                <CITY name='Горки' coord='54.27906,30.990631'>
+                    <DOC name="Январь 2011 - Август 2017">http://nca.by/docs/pdf/Gorki.pdf</DOC>
+                    <DOC name=" 2009-2013">http://nca.by/_modules/_cfiles/files/gorki.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Глусский'>
+                <CITY name='Глуск' coord='52.898162,28.686232'>
+                    <DOC name="2004-2012">http://nca.by/docs/pdf/Glusk.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Быховский'>
+                <CITY name='Быхов' coord='53.520074,30.224298'>
+                    <DOC name="Январь 2010 - Август 2017">http://nca.by/docs/pdf/Byhov.pdf</DOC>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Byhov.pdf</DOC>
+                </CITY>
+            </DISTRICT>
+            <DISTRICT name='Белыничский'>
+                <CITY name='Белыничи' coord='53.994962,29.710912'>
+                    <DOC name="2004-2011">http://nca.by/docs/pdf/Belynichi.pdf</DOC>
+                </CITY>
+            </DISTRICT>          
+        </DISTRCITS> 
+    </REGION>
+    
+</REGIONS>
+
+        

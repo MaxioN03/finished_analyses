@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Готовые исследования</title> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>	  
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/modal.css">
+    <link rel="stylesheet" href="../css/menu.css">
+    <link rel="stylesheet" href="http://nca.by/styles/default.css">
+    <script src="//api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
+</head>
+<body> 
+    <a>LOL</a>
+    <div id="content">
+
+        <div id="mainmenu">
+            <ul id="menu">
+            </ul>
+        </div>
+
+        <div id="map"></div>
+    </div>
+
+    <!-- МОДАЛЬНОЕ ОКНО-->
+    <div id="modal_form"><!-- Сaмo oкнo --> 
+      <span id="modal_close">X</span> <!-- Кнoпкa зaкрыть --> 
+      <!-- Тут любoе сoдержимoе -->
+    </div>
+    <div id="overlay"></div><!-- Пoдлoжкa -->
+    
+    
+    <script src="../js/main.js"></script>
+	<script src="../js/map.js"></script>
+    <script src="../js/modal.js"></script>    
+    <script src="../js/pdfobject.js"></script> 
+    
+    <script>
+        var $container = $("#modal_form");
+        PDFObject.embed("http://nca.by/docs/pdf/Brest.pdf", $container);
+    </script>
+</body>
+</html>

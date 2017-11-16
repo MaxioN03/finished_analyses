@@ -83,7 +83,7 @@ var addMarkerToMap = function (coord, cityName, docs){
         myFunc = "alert("+typeof item.split('?')[0]+");";
         //console.log(myFunc);
         //docsString+="<a class='cityHref'>"+item.split('?')[1]+"</a><br>";
-        docsString+="<a class='cityHref' href='"+item.split('?')[0]+"'>"+item.split('?')[1]+"</a><br>";
+        docsString+=`<a class="cityHref" href="javascript:openModal('${item.split('?')[0]}')">${item.split('?')[1]}</a>`;
     });
     
     ymaps.ready(function(){

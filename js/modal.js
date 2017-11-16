@@ -20,3 +20,7 @@ $(document).ready(function() { // вся мaгия пoсле зaгрузки с�
 			);
 	});
 });
+
+function openModal(link){
+    alert(link);
+}
